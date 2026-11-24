@@ -1,0 +1,13 @@
+streamlit
+groq
+python-dotenv
+pandas
+pymupdf
+pydantic>=2.7
+faiss-cpu
+sentence-transformers
+rank-bm25
+numpy
+scipy
+scikit-learn
+matplotlib
